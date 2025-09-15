@@ -7,7 +7,7 @@ require (
 	github.com/gofiber/fiber/v3 v3.0.0-rc.1
 	github.com/mcuadros/go-defaults v1.2.0
 	github.com/sirupsen/logrus v1.9.3
-	github.com/stretchr/testify v1.11.0
+	github.com/stretchr/testify v1.11.1
 	github.com/swaggo/swag v1.16.6
 	github.com/yankeguo/zhipu v0.1.5
 	gitlab.com/golang-commonmark/markdown v0.0.0-20211110145824-bf3e522c626a
@@ -84,5 +84,5 @@ require (
 	github.com/valyala/fasthttp v1.65.0 // indirect
 	golang.org/x/sys v0.35.0 // indirect
 	gorm.io/driver/sqlite v1.6.0
-	gorm.io/gorm v1.30.3
+	gorm.io/gorm v1.31.0
 )

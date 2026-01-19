@@ -6,7 +6,7 @@ require (
 	github.com/go-playground/validator/v10 v10.30.1
 	github.com/gofiber/fiber/v3 v3.0.0-rc.3
 	github.com/mcuadros/go-defaults v1.2.0
-	github.com/sirupsen/logrus v1.9.3
+	github.com/sirupsen/logrus v1.9.4
 	github.com/stretchr/testify v1.11.1
 	github.com/swaggo/swag v1.16.6
 	github.com/yankeguo/zhipu v0.1.5

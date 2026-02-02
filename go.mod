@@ -6,7 +6,7 @@ require (
 	github.com/go-playground/validator/v10 v10.30.1
 	github.com/gofiber/fiber/v3 v3.0.0-rc.3
 	github.com/mcuadros/go-defaults v1.2.0
-	github.com/sirupsen/logrus v1.9.3
+	github.com/sirupsen/logrus v1.9.4
 	github.com/stretchr/testify v1.11.1
 	github.com/swaggo/swag v1.16.6
 	github.com/yankeguo/zhipu v0.1.5
@@ -74,7 +74,7 @@ require (
 	github.com/andybalholm/brotli v1.2.0 // indirect
 	github.com/gofiber/contrib/monitor v0.1.2
 	github.com/gofiber/utils/v2 v2.0.0-rc.2 // indirect
-	github.com/golang-jwt/jwt/v5 v5.3.0
+	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gorilla/feeds v1.2.0
 	github.com/klauspost/compress v1.18.1 // indirect
